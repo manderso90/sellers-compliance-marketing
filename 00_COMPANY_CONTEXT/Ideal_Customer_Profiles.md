@@ -103,3 +103,33 @@ A homeowner who is not actively selling but wants to ensure their property is co
 
 **Message that resonates:**
 "Know your home is compliant before it becomes a problem."
+
+---
+
+## ICP 5: The Escrow Officer
+
+**Who they are:**
+A licensed escrow officer at an escrow company in LA or OC who manages the closing process for real estate transactions. They are the neutral third party responsible for ensuring all conditions of the sale are met before funds are disbursed and title transfers.
+
+**What they care about:**
+- Transactions closing on schedule
+- All compliance conditions being satisfied with proper documentation
+- Vendors who communicate clearly and deliver paperwork on time
+- Minimizing delays that create liability or client complaints
+
+**Pain points:**
+- Compliance items that aren't resolved before the closing date
+- Sellers who don't understand what's required or wait too long to act
+- Vendors who are difficult to reach or slow to provide documentation
+- Last-minute scrambles that push closing dates and upset all parties
+
+**How we reach them:**
+- Direct outreach to escrow companies in LA and OC
+- Referrals from real estate agents they work with regularly
+- LinkedIn (professional network with agents and title/escrow contacts)
+
+**Referral opportunity:**
+Escrow officers routinely encounter sellers who haven't addressed compliance. A trusted compliance vendor they can recommend on the spot is genuinely useful to them — it helps their transaction close cleanly. Building relationships with escrow officers is a high-value referral channel.
+
+**Message that resonates:**
+"We get it done and get you the paperwork. Your closing stays on track."

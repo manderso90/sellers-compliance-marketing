@@ -1,0 +1,8 @@
+[2026-06-23T18:02:03Z] Hook fired. Input bytes: 978
+[2026-06-23T18:02:03Z] ERR trap at line 67; failing open
+[2026-06-23T18:10:38Z] Hook fired. Input bytes: 1815
+[2026-06-23T18:10:38Z] ERR trap at line 67; failing open
+[2026-06-23T18:12:25Z] Hook fired. Input bytes: 1102
+[2026-06-23T18:12:25Z] ERR trap at line 67; failing open
+[2026-06-23T18:13:56Z] Hook fired. Input bytes: 860
+[2026-06-23T18:13:56Z] ERR trap at line 67; failing open
